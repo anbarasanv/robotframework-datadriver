@@ -39,7 +39,7 @@ setup(
     ],
     extras_require={
             'xls':  [
-                'numpy',
+                'numpy', 
                 'xlrd >= 1.0.0'
             ]
     },
